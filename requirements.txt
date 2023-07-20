@@ -1,0 +1,16 @@
+black==20.8b1
+functorch==0.2.0
+h5py==3.7.0
+jupyter==1.0.0
+matplotlib==3.5.2
+notebook==6.4.12
+numpy==1.23.1
+optuna==3.0.0b1
+pandas==1.4.3
+pre-commit==2.20.0
+sacred==0.8.4
+scipy==1.9.0rc2
+seaborn==0.12.0
+tensorboard==2.12.3
+tqdm==4.64.0
+joblib
